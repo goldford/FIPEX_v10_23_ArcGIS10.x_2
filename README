@@ -29,11 +29,11 @@ with additional functionality for assessing the Dendritic Connectivity
 Index (DCI) for river systems. Parks Canada also upgraded compatibility 
 of FIPEX from ArcGIS 9.x to 10.0.
 
-* 2009-2013 - Branched development
+* 2009-2013 - Branched development by G Oldford while supported by NSERC-IPS in partnership with Nova Scotia Power Inc and Dalhousie University
 to add additional functionality for FIPEX to work with the GLPK and Gurobi
 optimisation software.  
 
-* 2014 - Upgraded to be compatible with ArcGIS 10.1 and above.
+* 2014 - Upgraded to be compatible with ArcGIS 10.1 and above by G Oldford
 
 --> Installation Instructions and System Requirements <--
 
